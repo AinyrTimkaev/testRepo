@@ -1,10 +1,11 @@
-body {
-  background:#2B2B2B;
-  background-size: cover !important;
+header{background:orange;float:left;width:100%;}
+main{background:beage;float:left;width:40%;}
+nav{background:lime;float:left;width:30%;}
+aside{background:blue;float:left;width:30%;}
+footer {
+  background:pink;
+  color:white;
+  padding:15px;
+border:1px solid black;
+  text-aligh:center;
 }
-
-  header{background:orange;}
-main{background:beage;}
-nav{background:line;}
-aside{background:blue;}
-footer{background:pink;}
