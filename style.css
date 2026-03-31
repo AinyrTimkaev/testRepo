@@ -1,0 +1,10 @@
+body {
+  background:#2B2B2B;
+  background-size: cover !important;
+}
+
+  header{background:orange;}
+main{background:beage;}
+nav{background:line;}
+aside{background:blue;}
+footer{background:pink;}
